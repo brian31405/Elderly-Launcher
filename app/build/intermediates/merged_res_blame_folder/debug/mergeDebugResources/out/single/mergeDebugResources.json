@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.elderlylauncher.app-debug-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.elderlylauncher.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.elderlylauncher.app-debug-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.elderlylauncher.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.elderlylauncher.app-debug-50:/layout_activity_todo_list.xml.flat",
+        "source": "com.elderlylauncher.app-main-52:/layout/activity_todo_list.xml"
+    },
+    {
+        "merged": "com.elderlylauncher.app-debug-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.elderlylauncher.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.elderlylauncher.app-debug-50:/drawable_splash_icon.xml.flat",
+        "source": "com.elderlylauncher.app-main-52:/drawable/splash_icon.xml"
+    },
+    {
+        "merged": "com.elderlylauncher.app-debug-50:/layout_activity_app_list.xml.flat",
+        "source": "com.elderlylauncher.app-main-52:/layout/activity_app_list.xml"
+    },
+    {
+        "merged": "com.elderlylauncher.app-debug-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.elderlylauncher.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.elderlylauncher.app-debug-50:/layout_activity_settings.xml.flat",
+        "source": "com.elderlylauncher.app-main-52:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.elderlylauncher.app-debug-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.elderlylauncher.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.elderlylauncher.app-debug-50:/layout_activity_main.xml.flat",
+        "source": "com.elderlylauncher.app-main-52:/layout/activity_main.xml"
+    }
+]

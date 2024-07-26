@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+drawable splash_icon
+id appListView
+id dateTextView
+id heartRateTextView
+id timeTextView
+layout activity_app_list
+layout activity_main
+layout activity_settings
+layout activity_todo_list
+mipmap ic_launcher
+string app_name
+string hello_world
+style MainActivityTheme.Starting
